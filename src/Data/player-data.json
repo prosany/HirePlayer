@@ -1,0 +1,182 @@
+[
+    {
+        "id" : 1,
+        "playerName" : "Shakib Al Hasan",
+        "workTitle" : "Bangladeshi Cricketer",
+        "age" : "33",
+        "born" : "March 24, 1987",
+        "country" : "Bangladesh",
+        "salary" : 25000,
+        "picture" : "https://i.ibb.co/tJyW7JW/Shakib-Al-Hasan.jpg"
+    },
+    {
+        "id" : 2,
+        "playerName" : "Virat Kohli",
+        "workTitle" : "Indian Cricketer",
+        "age" : "32",
+        "born" : "November 5, 1988",
+        "country" : "India",
+        "salary" : 25000,
+        "picture" : "https://i.ibb.co/7rcB9yD/Virat-Kohli.webp"
+    },
+    {
+        "id" : 3,
+        "playerName" : "Ben Stokes",
+        "workTitle" : "England Cricketer",
+        "age" : "29",
+        "born" : "June 4, 1991",
+        "country" : "England",
+        "salary" : 23000,
+        "picture" : "https://i.ibb.co/W0cvrz2/Ben-Stokes.webp"
+    },
+    {
+        "id" : 4,
+        "playerName" : "Rohit Sharma",
+        "workTitle" : "Indian Cricketer",
+        "age" : "33",
+        "born" : "April 30, 1987",
+        "country" : "India",
+        "salary" : 21000,
+        "picture" : "https://i.ibb.co/gjH585z/Rohit-Sharma.jpg"
+    },
+    {
+        "id" : 5,
+        "playerName" : "Sean Williams",
+        "workTitle" : "Zimbabwean Cricketer",
+        "age" : "34",
+        "born" : "September 26, 1986",
+        "country" : "Zimbabwean",
+        "salary" : 24000,
+        "picture" : "https://i.ibb.co/gSWkDHK/Sean-Williams.jpg"
+    },
+    {
+        "id" : 6,
+        "playerName" : "Ravindra Jadeja",
+        "workTitle" : "Indian Cricketer",
+        "age" : "32",
+        "born" : "December 6, 1988",
+        "country" : "India",
+        "salary" : 22000,
+        "picture" : "https://i.ibb.co/H2YpsrD/Ravindra-Jadeja.webp"
+    },
+    {
+        "id" : 7,
+        "playerName" : "Kane Williamson",
+        "workTitle" : "New Zealand Cricketer",
+        "age" : "30",
+        "born" : "August 8, 1990",
+        "country" : "New Zealand",
+        "salary" : 24000,
+        "picture" : "https://i.ibb.co/cQttHw4/Kane-Williamson.jpg"
+    },
+    {
+        "id" : 8,
+        "playerName" : "Steve Smith",
+        "workTitle" : "Australian Cricketer",
+        "age" : "31",
+        "born" : "June 2, 1989",
+        "country" : "Australian",
+        "salary" : 21000,
+        "picture" : "https://i.ibb.co/q9JXggD/Steve-Smith.jpg"
+    },
+    {
+        "id" : 9,
+        "playerName" : "Babar Azam",
+        "workTitle" : "Pakistani Cricketer",
+        "age" : "26",
+        "born" : "October 15, 1994",
+        "country" : "Pakistan",
+        "salary" : 20000,
+        "picture" : "https://i.ibb.co/wrQRdZM/Babar-Azam.jpg"
+    },
+    {
+        "id" : 10,
+        "playerName" : "Jason Holder",
+        "workTitle" : "Barbadian Cricketer",
+        "age" : "29",
+        "born" : "November 5, 1991",
+        "country" : "Barbados",
+        "salary" : 20000,
+        "picture" : "https://i.ibb.co/ZzWtgs2/Jason-Holder.jpg"
+    },
+    {
+        "id" : 11,
+        "playerName" : "Sachin Tendulkar",
+        "workTitle" : "Indian Cricketer",
+        "age" : "47",
+        "born" : "April 24, 1973",
+        "country" : "India",
+        "salary" : 26000,
+        "picture" : "https://i.ibb.co/Lg36GZH/India-s-Sachin-Tendulkar-achonolodge-the-crowd-after-he-scored-century-against-England-in-the-World.jpg"
+    },
+    {
+        "id" : 12,
+        "playerName" : "Mustafizur Rahman",
+        "workTitle" : "Bangladeshi Cricketer",
+        "age" : "25",
+        "born" : "September 6, 1995",
+        "country" : "Bangladesh",
+        "salary" : 21000,
+        "picture" : "https://i.ibb.co/T06bV4y/Mustafizur-Rahman.jpg"
+    },
+    {
+        "id" : 13,
+        "playerName" : "Chris Gayle",
+        "workTitle" : "Jamaican Cricketer",
+        "age" : "41",
+        "born" : "September 21, 1979",
+        "country" : "Jamaica",
+        "salary" : 25000,
+        "picture" : "https://i.ibb.co/4FW6Hh0/Chris-gayle.jpg"
+    },
+    {
+        "id" : 14,
+        "playerName" : "Quinton de Kock",
+        "workTitle" : "South African Cricketer",
+        "age" : "28",
+        "born" : "December 17, 1992",
+        "country" : "South Africa",
+        "salary" : 21000,
+        "picture" : "https://i.ibb.co/XJsFypj/Quinton-de-Kock.jpg"
+    },
+    {
+        "id" : 15,
+        "playerName" : "Mushfiqur Rahim",
+        "workTitle" : "Bangladeshi Cricketer",
+        "age" : "33",
+        "born" : "June 9, 1987",
+        "country" : "Bangladesh",
+        "salary" : 24000,
+        "picture" : "https://i.ibb.co/gV6vswj/Mushfiqur-Rahim.jpg"
+    },
+    {
+        "id" : 16,
+        "playerName" : "Tamim Iqbal",
+        "workTitle" : "Bangladeshi Cricketer",
+        "age" : "31",
+        "born" : "March 20, 1989",
+        "country" : "Bangladesh",
+        "salary" : 25000,
+        "picture" : "https://i.ibb.co/3fKfdvC/Tamim-Iqbal.jpg"
+    },
+    {
+        "id" : 17,
+        "playerName" : "Tim Southee",
+        "workTitle" : "New Zealand Cricketer",
+        "age" : "32",
+        "born" : "December 11, 1988",
+        "country" : "New Zealand",
+        "salary" : 22000,
+        "picture" : "https://i.ibb.co/JHCvSd6/New-Zealands-Tim-Southee-Twenty-20-cricket-international-between-India-and-New-Zealand-Sky-Stadium-W.jpg"
+    },
+    {
+        "id" : 18,
+        "playerName" : "Pat Cummins",
+        "workTitle" : "Australian Cricketer",
+        "age" : "27",
+        "born" : "May 8, 1993",
+        "country" : "Australian",
+        "salary" : 22000,
+        "picture" : "https://i.ibb.co/sWXpcDC/Pat-Cummins.jpg"
+    }
+]

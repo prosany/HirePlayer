@@ -1,0 +1,25 @@
+.playerdetails {
+    width: 100%;
+    border-bottom: 1px solid #efefef;
+    padding: 5px 10px;
+    overflow: hidden;
+    line-height: 50px;
+}
+.playerPicture {
+    float: left;
+}
+.playerPicture img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.playerName {
+    margin-left: 10px;
+    font-family: 'RocknRoll One', sans-serif;
+    font-size: 14px;
+    float: left;
+}
+.playerSalary {
+    float: right;
+    font-size: 16px;
+}

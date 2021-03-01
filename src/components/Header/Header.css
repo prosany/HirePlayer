@@ -1,0 +1,32 @@
+header {
+    width: 100%;
+    background: #131921;
+    overflow: hidden;
+    position: fixed;
+	top: 0;
+	left: 0;
+	line-height: var(--header-height);
+    z-index: 100;
+}
+.logo {
+    float: left;
+}
+.logo img {
+    height: 40px;
+}
+
+.menu {
+    float: right;
+}
+.menu a {
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0 10px;
+    font-size: 13px;
+    margin: 0 2px;
+    box-sizing: border-box;
+}
+.menu a:hover {
+    background: #232F3E;
+}

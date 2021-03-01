@@ -1,0 +1,39 @@
+.playerImg img {
+    height: 160px;
+}
+.playerDetails {
+    background: #fff;
+    padding: 10px;
+}
+.player-name {
+    font-size: 20px;
+    padding: 5px 0 0 0;
+    text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
+}
+.player-name img {
+    height: 10px;
+}
+.player-workTitle {
+    font-size: 11px;
+    text-align: center;
+    font-weight: 600;
+}
+.player-country, .player-age, .player-born {
+    font-size: 12px;
+}
+.player-country, .player-age, .player-born span {
+    font-weight: 700;
+}
+.player-salary {
+    color: #ff3b3f;
+    font-size: 13px;
+    font-weight: 700;
+    margin: 5px 0;
+}
+.btn-warning {
+    color: #fff;
+    background-color: #ff3b3f;
+    border-color: #ff3b3f;
+    font-weight: 600;
+}

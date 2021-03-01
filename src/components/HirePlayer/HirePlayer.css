@@ -1,0 +1,24 @@
+#fixedSideBar {
+    position: sticky;
+    position: -webkit-sticky;
+    position: sticky;
+}
+
+.hiredPlayerLists {
+    background: #fff;
+    border: 1px solid #e4e4e4;
+    border-radius: 6px;
+}
+.playeradded {
+    text-align: center;
+    background: #f8f8f8;
+    padding: 10px;
+    border-radius: 6px 6px 0 0;
+    border-bottom: 1px solid #efefef;
+}
+.playerhireamount {
+    background: #f8f8f8;
+    padding: 10px;
+    border-radius: 0 0 6px 6px;
+    text-align: center;
+}
