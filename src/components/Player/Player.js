@@ -1,8 +1,10 @@
 import React from 'react';
+import { useState } from 'react';
 import './Player.css';
 
 const Player = (props) => {
     const { playerName, workTitle, age, born, country, salary, picture } = props.player;
+    const [btnDisable, setBtnDisable] = useState(false);
     // console.log(props.player);
     return (
         <div>
@@ -16,7 +18,11 @@ const Player = (props) => {
                         <div className="player-age"><span>Age:</span> {age}</div>
                         <div className="player-born"><span>Date of Birth:</span> {born}</div>
                         <div className="player-salary">Hiring Cost: ${salary}</div>
-                        <button type="button" className="btn btn-warning btn-sm w-100" onClick={() => props.handleHirePlayer(props.player)}>Hire {playerName}</button>
+                        <button type="button" className={btnDisable ? "btn btn-warning btn-sm disable" : "btn btn-warning btn-sm"}
+                        onClick={() => {
+                            props.handleHirePlayer(props.player);
+                            setBtnDisable(true);
+                          }}>Hire {playerName}</button>
                     </div>
                 </div>
             </div>

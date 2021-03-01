@@ -8,13 +8,6 @@ const HirePlayer = (props) => {
     const hiredPlayerSalary = hiredPlayerList.reduce((total, PlayerSalary) => total + PlayerSalary.salary, 0);
     return (
         <div id="fixedSideBar">
-            {/* <h3>Player Added! {hiredPlayerList.length}</h3>
-            <div className="hiredPlayerList">
-                {
-                    hiredPlayerList.map((hiredPlayer) => <HiredPlayerList hiredPlayer={hiredPlayer}></HiredPlayerList>)
-                }
-            </div>
-            <h6>Total Salary: {hiredPlayerSalary}</h6> */}
             <div className="hiredPlayerLists">
                 <div className="playeradded">
                     <strong>Selected Player: {hiredPlayerList.length}</strong>
@@ -27,7 +20,7 @@ const HirePlayer = (props) => {
                 <div className="playerhireamount">
                     <strong>Total Amount: ${hiredPlayerSalary}</strong>
                     <div className="hireBtn">
-                        <button type="button" class="btn btn-warning btn-sm">Complete Hiring ({hiredPlayerList.length})</button>
+                        <button type="button" className="btn btn-warning btn-sm">Complete Hiring ({hiredPlayerList.length})</button>
                     </div>
                 </div>
             </div>

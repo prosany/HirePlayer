@@ -37,3 +37,10 @@
     border-color: #ff3b3f;
     font-weight: 600;
 }
+.disable {
+    pointer-events: none;
+    cursor: not-allowed;
+    background-color: #ff3b3f91;
+    outline: none;
+    border: 0;
+  }
