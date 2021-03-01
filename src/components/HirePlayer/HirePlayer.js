@@ -26,6 +26,9 @@ const HirePlayer = (props) => {
                 </div>
                 <div className="playerhireamount">
                     <strong>Total Amount: ${hiredPlayerSalary}</strong>
+                    <div className="hireBtn">
+                        <button type="button" class="btn btn-warning btn-sm">Complete Hiring ({hiredPlayerList.length})</button>
+                    </div>
                 </div>
             </div>
         </div>

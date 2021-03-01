@@ -6,7 +6,7 @@
         "age" : "33",
         "born" : "March 24, 1987",
         "country" : "Bangladesh",
-        "salary" : 25000,
+        "salary" : 425000,
         "picture" : "https://i.ibb.co/tJyW7JW/Shakib-Al-Hasan.jpg"
     },
     {
@@ -16,7 +16,7 @@
         "age" : "32",
         "born" : "November 5, 1988",
         "country" : "India",
-        "salary" : 25000,
+        "salary" : 525000,
         "picture" : "https://i.ibb.co/7rcB9yD/Virat-Kohli.webp"
     },
     {
@@ -26,7 +26,7 @@
         "age" : "29",
         "born" : "June 4, 1991",
         "country" : "England",
-        "salary" : 23000,
+        "salary" : 325000,
         "picture" : "https://i.ibb.co/W0cvrz2/Ben-Stokes.webp"
     },
     {
@@ -36,7 +36,7 @@
         "age" : "33",
         "born" : "April 30, 1987",
         "country" : "India",
-        "salary" : 21000,
+        "salary" : 415000,
         "picture" : "https://i.ibb.co/gjH585z/Rohit-Sharma.jpg"
     },
     {
@@ -46,7 +46,7 @@
         "age" : "34",
         "born" : "September 26, 1986",
         "country" : "Zimbabwean",
-        "salary" : 24000,
+        "salary" : 225000,
         "picture" : "https://i.ibb.co/gSWkDHK/Sean-Williams.jpg"
     },
     {
@@ -56,7 +56,7 @@
         "age" : "32",
         "born" : "December 6, 1988",
         "country" : "India",
-        "salary" : 22000,
+        "salary" : 325000,
         "picture" : "https://i.ibb.co/H2YpsrD/Ravindra-Jadeja.webp"
     },
     {
@@ -66,7 +66,7 @@
         "age" : "30",
         "born" : "August 8, 1990",
         "country" : "New Zealand",
-        "salary" : 24000,
+        "salary" : 425490,
         "picture" : "https://i.ibb.co/cQttHw4/Kane-Williamson.jpg"
     },
     {
@@ -76,7 +76,7 @@
         "age" : "31",
         "born" : "June 2, 1989",
         "country" : "Australian",
-        "salary" : 21000,
+        "salary" : 432500,
         "picture" : "https://i.ibb.co/q9JXggD/Steve-Smith.jpg"
     },
     {
@@ -86,7 +86,7 @@
         "age" : "26",
         "born" : "October 15, 1994",
         "country" : "Pakistan",
-        "salary" : 20000,
+        "salary" : 543200,
         "picture" : "https://i.ibb.co/wrQRdZM/Babar-Azam.jpg"
     },
     {
@@ -96,7 +96,7 @@
         "age" : "29",
         "born" : "November 5, 1991",
         "country" : "Barbados",
-        "salary" : 20000,
+        "salary" : 425579,
         "picture" : "https://i.ibb.co/ZzWtgs2/Jason-Holder.jpg"
     },
     {
@@ -106,7 +106,7 @@
         "age" : "47",
         "born" : "April 24, 1973",
         "country" : "India",
-        "salary" : 26000,
+        "salary" : 425503,
         "picture" : "https://i.ibb.co/Lg36GZH/India-s-Sachin-Tendulkar-achonolodge-the-crowd-after-he-scored-century-against-England-in-the-World.jpg"
     },
     {
@@ -116,7 +116,7 @@
         "age" : "25",
         "born" : "September 6, 1995",
         "country" : "Bangladesh",
-        "salary" : 21000,
+        "salary" : 415000,
         "picture" : "https://i.ibb.co/T06bV4y/Mustafizur-Rahman.jpg"
     },
     {
@@ -126,7 +126,7 @@
         "age" : "41",
         "born" : "September 21, 1979",
         "country" : "Jamaica",
-        "salary" : 25000,
+        "salary" : 625000,
         "picture" : "https://i.ibb.co/4FW6Hh0/Chris-gayle.jpg"
     },
     {
@@ -136,7 +136,7 @@
         "age" : "28",
         "born" : "December 17, 1992",
         "country" : "South Africa",
-        "salary" : 21000,
+        "salary" : 243948,
         "picture" : "https://i.ibb.co/XJsFypj/Quinton-de-Kock.jpg"
     },
     {
@@ -146,7 +146,7 @@
         "age" : "33",
         "born" : "June 9, 1987",
         "country" : "Bangladesh",
-        "salary" : 24000,
+        "salary" : 327453,
         "picture" : "https://i.ibb.co/gV6vswj/Mushfiqur-Rahim.jpg"
     },
     {
@@ -156,7 +156,7 @@
         "age" : "31",
         "born" : "March 20, 1989",
         "country" : "Bangladesh",
-        "salary" : 25000,
+        "salary" : 394634,
         "picture" : "https://i.ibb.co/3fKfdvC/Tamim-Iqbal.jpg"
     },
     {
@@ -166,7 +166,7 @@
         "age" : "32",
         "born" : "December 11, 1988",
         "country" : "New Zealand",
-        "salary" : 22000,
+        "salary" : 326383,
         "picture" : "https://i.ibb.co/JHCvSd6/New-Zealands-Tim-Southee-Twenty-20-cricket-international-between-India-and-New-Zealand-Sky-Stadium-W.jpg"
     },
     {
@@ -176,7 +176,7 @@
         "age" : "27",
         "born" : "May 8, 1993",
         "country" : "Australian",
-        "salary" : 22000,
+        "salary" : 354928,
         "picture" : "https://i.ibb.co/sWXpcDC/Pat-Cummins.jpg"
     }
 ]

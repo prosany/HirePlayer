@@ -1,5 +1,5 @@
 import React from 'react';
-import './HiredPlayerList.css'
+import './HiredPlayerList.css';
 
 const HiredPlayerList = (props) => {
     // console.log(props.hiredPlayer)

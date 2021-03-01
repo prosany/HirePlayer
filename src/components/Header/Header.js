@@ -2,7 +2,7 @@ import React from 'react';
 import './Header.css';
 import logo from '../../Data/logo-white.svg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHome, faUser, faQuestionCircle, faInfoCircle} from '@fortawesome/free-solid-svg-icons';
+import { faHome, faUser, faQuestionCircle, faInfoCircle, faCheckCircle } from '@fortawesome/free-solid-svg-icons';
 
 
 const Header = () => {
